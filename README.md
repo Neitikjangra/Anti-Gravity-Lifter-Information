@@ -102,7 +102,7 @@ Anti-Gravity-Lifter/
 
 ## 🙌 Contributors
 
-Developed by **Kartik & Neitik** as part of ongoing research into advanced propulsion technologies.
+Developed by **Kartik & Neitik & Rajarshi Shukla** as part of ongoing research into advanced propulsion technologies.
 
 
 

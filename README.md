@@ -1,5 +1,4 @@
-# Anti-Gravity-Lifter-Information
- 
+
 
 
 # Anti-Gravity Lifter: Electrostatic Propulsion Using High Voltage
